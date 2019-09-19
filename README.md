@@ -6,7 +6,7 @@
 | :------------ | :------------: | ------------: |
 |1              | 2              |  3            |
 
-\
+
 ```java
 public class Sum1to100 {
     public static void main(String[] args) {
