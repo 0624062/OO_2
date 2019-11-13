@@ -99,7 +99,11 @@ SMART TV
 
 ### 8.初步類別表
 #### 開電視  轉台  調音量
-![JPG](初步類別圖1031.jpg "類別表")
+![JPG](Untitled Diagram (2).png "類別表")
+
+![JPG](Untitled Diagram.png "類別表")
+
+![JPG](Untitled Diagram (1).png "類別表")
 
 ### 9.系統循序圖
 ![JPG](系統循序圖new.jpg "系統循序圖")
